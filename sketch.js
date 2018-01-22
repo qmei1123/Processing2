@@ -21,5 +21,4 @@ function draw() {
     col.b =  map(mouseY*2, 0, width, 100, 150);
     fill(col.r, col.g, col.b, 150);
     stroke(60,40,200,0);
-     
 }
