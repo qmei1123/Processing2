@@ -9,7 +9,7 @@ var col = {
     a: 0
 };
 function setup() {
-    createCanvas(1000, 900);
+    createCanvas(width, height);
 }
 
 function draw() {  
