@@ -1,3 +1,4 @@
+var canvas;
 var mouseX;
 var mouseY;
 var circleX = 300;
